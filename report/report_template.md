@@ -211,4 +211,5 @@ Image → Frozen CLIP Vision Encoder → Mini Q-Former → Linear Projection →
   60b15de (HEAD -> main, origin/main) 添加训练代码和报告图片
   1b65a4c 添加gitignore忽略大文件
   e412234 zhx
+  更新报告模板
 ```
