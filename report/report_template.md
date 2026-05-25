@@ -200,11 +200,15 @@ Image → Frozen CLIP Vision Encoder → Mini Q-Former → Linear Projection →
 
 请填写本次复现的代码仓库与提交历史（对应 requirements.md 第 9.2 节）。
 
-- 仓库地址：
-- 总 commit 数：
+- 仓库地址：origin  https://github.com/zhx767/blip2-main.git (fetch)
+    
+    origin  https://github.com/zhx767/blip2-main.git (push)
+- 总 commit 数：5
 
 粘贴 `git log --oneline` 输出（或截图）：
 
 ```text
-（在这里粘贴 git log --oneline）
+  60b15de (HEAD -> main, origin/main) 添加训练代码和报告图片
+  1b65a4c 添加gitignore忽略大文件
+  e412234 zhx
 ```
